@@ -1,0 +1,14 @@
+.container{
+  width:20%;
+  padding:20px;
+  margin:200px auto;
+  border-radius:8px;
+  text-align: center;
+  align-items: center;
+  padding:20px;
+  display:flex;
+  flex-direction: column;
+  background-color: #9fdcf0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  justify-content: center;
+}
